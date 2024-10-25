@@ -1,7 +1,7 @@
 # Objective:
 The ultrasonic sensors detect objects by measuring the distance between the car and nearby obstacles. When the car approaches an object, the Arduino Uno processes the sensor data and sends signals to the motor driver to change the direction, ensuring the car avoids collisions and navigates safely.
 
-# Back Story
+# Back Story:
 This was a hobby project of mine, which I began on September 17, 2023. I sourced all the components from local markets as it was more cost-effective. The project was successfully completed on September 19, 2023.
 
 # Component used:
